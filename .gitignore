@@ -1,0 +1,7 @@
+# 本地预览产物，不属于仓库内容
+preview-*.html
+data/entities.json
+
+# 系统与编辑器
+.DS_Store
+__pycache__/
