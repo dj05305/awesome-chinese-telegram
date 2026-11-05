@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "note": "人工覆盖层。生成器只读不改；tier1 的 blurb 全部人工撰写，exclude 为人工排除。",
+  "version": 3,
+  "note": "人工覆盖层。生成器只读不改；tier1 的 blurb 全部人工撰写，exclude 为人工排除。maxTier2 是自动收录（Tier 2）的全局预算：0 表示只发 tier1，因为线上符合门槛的实体会筛出 257 条，一次全铺进去就不是清单而是大杂烩了。",
   "blockedCategories": [
     "机场测试",
     "加密资产风险提示"
@@ -27,6 +27,7 @@
     "返佣"
   ],
   "exclude": {},
+  "maxTier2": 0,
   "tier1": {
     "01M1K1WMWE2YPQ548QV507FH3D": {
       "blurb": "以科技与互联网快讯为主，也会发 VPS、网盘这类虚拟资产的动态。信息密度高，适合当信息流补充，不适合当深度阅读。"

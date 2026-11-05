@@ -6,12 +6,12 @@
 
 <p>
   <a href="https://chanscout.com"><img alt="Site" src="https://img.shields.io/badge/site-chanscout.com-2f6fed"></a>
-  <img alt="Entries" src="https://img.shields.io/badge/entries-50-1d9e75">
+  <img alt="Entries" src="https://img.shields.io/badge/entries-49-1d9e75">
   <img alt="Updated weekly" src="https://img.shields.io/badge/updated-weekly-ba7517">
   <img alt="License" src="https://img.shields.io/badge/license-CC0--1.0-5f5e5a">
 </p>
 
-**Last refresh:** 2026-11-05 · **50 entries** · updated every Monday
+**Verified through:** 2026-11-02 · **49 entries** · updated every Monday
 
 ## What this list is
 
@@ -63,7 +63,6 @@ the first thing on that page.
 - [软件工具 · Software & Tools](#软件工具--software--tools)
 - [资源分享 · Resources](#资源分享--resources)
 - [阅读学习 · Reading & Learning](#阅读学习--reading--learning)
-- [新闻时事 · News](#新闻时事--news)
 - [生活娱乐 · Lifestyle](#生活娱乐--lifestyle)
 - [社交社区 · Communities](#社交社区--communities)
 - [游戏 · Games](#游戏--games)
@@ -179,11 +178,6 @@ the first thing on that page.
 - **[杂志｜考研｜考公｜互助群](https://chanscout.com/telegram/01M5PNDQERR71BNBA68WGCN2MG-waikan2023/)** — 期刊、考研与考公资料的互助群，以资料交换和信息互通为主。平时安静，找冷门资料时有用。  
   <sub><strong>7.6K</strong> subscribers · verified 2026-11-02</sub>
 
-## 新闻时事 · News
-
-- **[风向旗参考快讯](https://chanscout.com/telegram/01M1K1WMWE2YPQ548QV507FH3D-xhqcankao/)** — 以科技与互联网快讯为主，也会发 VPS、网盘这类虚拟资产的动态。信息密度高，适合当信息流补充，不适合当深度阅读。  
-  <sub><strong>163.1K</strong> subscribers · verified 2026-11-04</sub>
-
 ## 生活娱乐 · Lifestyle
 
 - **[肥羊影音数码综合交流群](https://chanscout.com/telegram/01M1XQG2JHX6RFPGHGWFNPJ3HH-feiyangdigital/)** — 影音与数码设备的综合交流群，群规禁止政治与 NSFW 内容。人多话题杂，适合问设备和资源。  
@@ -216,4 +210,4 @@ belong to their respective owners.
 
 ---
 
-*50 entries · refreshed weekly · generated 2026-11-05 15:27 UTC · maintained by [ChanScout](https://chanscout.com)*
+*49 entries · refreshed weekly · maintained by [ChanScout](https://chanscout.com)*
