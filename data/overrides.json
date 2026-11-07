@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "note": "人工覆盖层。生成器只读不改；tier1 的 blurb 全部人工撰写，exclude 为人工排除。maxTier2 是自动收录（Tier 2）的全局预算：0 表示只发 tier1，因为线上符合门槛的实体会筛出 257 条，一次全铺进去就不是清单而是大杂烩了。",
+  "version": 4,
+  "note": "人工覆盖层。生成器只读不改；tier1 的 blurb 全部人工撰写，exclude 为人工排除。maxTier2 是自动收录（Tier 2）的全局预算：0 表示只发 tier1，因为线上符合门槛的实体会筛出数百条，一次全铺进去就不是清单而是大杂烩了。",
   "blockedCategories": [
     "机场测试",
     "加密资产风险提示"
@@ -26,7 +26,10 @@
     "空投",
     "返佣"
   ],
-  "exclude": {},
+  "exclude": {
+    "01M2PWEKA15SKMTGTYFJT39DBN": "站内已下架（publication_state=suspended），2026-11-07 核对",
+    "01M5S92VC8PHDWFC9SJWQ5GHGS": "站内已下架（publication_state=suspended），2026-11-07 核对"
+  },
   "maxTier2": 0,
   "tier1": {
     "01M1K1WMWE2YPQ548QV507FH3D": {
@@ -56,14 +59,8 @@
     "01M1KS3BD6J2WKTGVCTE5ECY85": {
       "blurb": "Arch Linux 中文社区的消息频道：官方新闻翻译、testing 预警和日常踩坑记录。用 Arch 的人可以当运维预警看。"
     },
-    "01M2PWEKA15SKMTGTYFJT39DBN": {
-      "blurb": "把 GitHub 上零散的安全研究项目整理成清单，后渗透、免杀、提权这类都有。仅面向授权测试与安全研究，别拿去做别的。"
-    },
     "01M2PX4XSYKWR73XQP3676J64K": {
       "blurb": "一个程序员的个人资源库，持续发编程相关的资料和工具。偶尔帮群友找书，每天限前三个。"
-    },
-    "01M5S92VC8PHDWFC9SJWQ5GHGS": {
-      "blurb": "每天更新远程与海外技术岗位，覆盖 Java、Go、前端、测试、Flutter 和 AI 应用。找远程工作的人可以当信息源。"
     },
     "01M1KTNV89GJ00QNKDNZ0KKPTV": {
       "blurb": "以资源整理和工具笔记为主，配一个同名讨论群。收藏型频道，翻历史记录比看即时推送更有用。"
@@ -178,6 +175,15 @@
     },
     "01M34S6SXDCJ71M9VVGVHN9YZE": {
       "blurb": "TGStat 出的频道搜索机器人，按关键词找频道和群组。做竞品调研时比手动翻目录快。"
+    },
+    "01M1VD448H72105D8GV2RVCCJX": {
+      "blurb": "不定期推送 IT 与数码资讯，节奏跟着作者自己的阅读走，不追日更。投稿和讨论都在同名交流群里，适合想找一份不喧哗的技术信息流的人。"
+    },
+    "01M1VCBQTQQHJQ5KCZ4DQD435N": {
+      "blurb": "开源阅读 App「阅读」（Legado）的频道，发布阅读器 APK、书源、主题字体与版本通知。书源由社区维护，导入即可用。2020 年建立，是这个生态里更新最稳的入口之一。"
+    },
+    "01M1VWFCK0S4PZJTGAW4TTJHAN": {
+      "blurb": "分享 AI 绘画、AI 视频与 AI 音乐相关的资源与技巧，也覆盖图像处理、视频处理方向的工具。适合想找现成素材和做法参考的人。"
     }
   }
 }
