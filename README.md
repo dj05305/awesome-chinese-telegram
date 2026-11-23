@@ -10,7 +10,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-CC0--1.0-5f5e5a">
 </p>
 
-**数据核验至：** 2026-11-13 · **51 条** · 每周一更新
+**数据核验至：** 2026-11-20 · **51 条** · 每周一更新
 
 ## 这是什么
 
@@ -58,137 +58,137 @@
 ## 科技互联网
 
 - **[在花🎗️科技圈](https://chanscout.com/telegram/01M5PKV8SBTFVPP0GG5NCFYPAM-zaihuapd/)** — 科技、AI、数码与互联网资讯的聚合频道，群规明确禁止广告、黑产与键政。体量大、更新稳，适合当科技新闻的主干来源。  
-  <sub><strong>290.3K</strong> 订阅 · 2026-11-13 核验</sub>
+  <sub><strong>291.2K</strong> 订阅 · 2026-11-20 核验</sub>
 - **[Newlearnerの自留地](https://chanscout.com/telegram/01M1VD448H72105D8GV2RVCCJX-NewlearnerChannel/)** — 不定期推送 IT 与数码资讯，节奏跟着作者自己的阅读走，不追日更。投稿和讨论都在同名交流群里，适合想找一份不喧哗的技术信息流的人。  
-  <sub><strong>68.3K</strong> 订阅 · 2026-11-12 核验</sub>
+  <sub><strong>68.4K</strong> 订阅 · 2026-11-19 核验</sub>
 - **[科技&趣闻&杂记](https://chanscout.com/telegram/01M1MZGH9TGBMYB4NCGAY1D90N-kejiqu/)** — 科技新闻、冷知识和影视资讯的混合投稿频道，内容由读者投稿加筛选。适合当泛科技信息流，不适合追单一领域。  
-  <sub><strong>36.8K</strong> 订阅 · 2026-11-12 核验</sub>
+  <sub><strong>36.8K</strong> 订阅 · 2026-11-19 核验</sub>
 - **[V2EX 交流群](https://chanscout.com/telegram/01M1XQNEHWAECTZDCCQB679A2Z-v2expro/)** — V2EX 站点的 Telegram 延伸，话题覆盖技术、创造、问答与生活。比站点即时，也比站点嘈杂。  
-  <sub><strong>18.9K</strong> 订阅 · 2026-11-12 核验</sub>
+  <sub><strong>18.8K</strong> 订阅 · 2026-11-19 核验</sub>
 
 ## 编程开发
 
 - **[AI探索指南](https://chanscout.com/telegram/01M5PKM1VKPJANT6DZY7AGHF8V-aigc1024/)** — 偏 AIGC 的工具、开源项目与行业动态，夹带一些方法论内容。适合想跟上 AI 工具迭代节奏的人。  
-  <sub><strong>37.6K</strong> 订阅 · 2026-11-13 核验</sub>
+  <sub><strong>37.9K</strong> 订阅 · 2026-11-20 核验</sub>
 - **[互联网从业者充电站](https://chanscout.com/telegram/01M5PKNF1H63T16VJNKJDCGM35-https1024/)** — 面向程序员、产品、设计、运营的内容聚合，话题跨度大。当行业视野补充可以，找具体技术答案不行。  
-  <sub><strong>31.6K</strong> 订阅 · 2026-11-13 核验</sub>
+  <sub><strong>31.7K</strong> 订阅 · 2026-11-20 核验</sub>
 - **[linux.do](https://chanscout.com/telegram/01M1VYQ6AA51D0HYC8QNGBX6TF-linuxdoit/)** — linux.do 社区的热帖同步频道。适合不想天天刷论坛、又不想错过技术讨论的人。  
-  <sub><strong>23.9K</strong> 订阅 · 2026-11-12 核验</sub>
+  <sub><strong>24K</strong> 订阅 · 2026-11-19 核验</sub>
 - **[Python 中文交流群](https://chanscout.com/telegram/01M5PN2BZQSVAD8JAK5M08EMCF-pythonzh/)** — 中文 Python 讨论群，群规明确禁止广告与「用 AI 直接答题」。适合问具体问题，不适合从零学语法。  
-  <sub><strong>22.1K</strong> 订阅 · 2026-11-13 核验</sub>
+  <sub><strong>22K</strong> 订阅 · 2026-11-20 核验</sub>
 - **[NodeSeek Group](https://chanscout.com/telegram/01M5PN41Y9N78F9N2GWC3TNR45-nodeseekg/)** — NodeSeek 官方群组。站点本身以主机、VPS 与自建服务为主，群里也多是这类话题。  
-  <sub><strong>21.8K</strong> 订阅 · 2026-11-13 核验</sub>
+  <sub><strong>21.6K</strong> 订阅 · 2026-11-20 核验</sub>
 - **[极客分享 2.0](https://chanscout.com/telegram/01M5PKM3QKZ8Y71GBHQYPP4KXX-xgeekshare/)** — 1.0 的续作，收窄到 AI、开源项目和生产力工具。比主频道克制，适合只想看工具的人。  
-  <sub><strong>14.1K</strong> 订阅 · 2026-11-13 核验</sub>
+  <sub><strong>14.3K</strong> 订阅 · 2026-11-20 核验</sub>
 - **[Arch Linux Chinese Messages](https://chanscout.com/telegram/01M1KS3BD6J2WKTGVCTE5ECY85-archlinuxcn/)** — Arch Linux 中文社区的消息频道：官方新闻翻译、testing 预警和日常踩坑记录。用 Arch 的人可以当运维预警看。  
-  <sub><strong>11.3K</strong> 订阅 · 2026-11-12 核验</sub>
+  <sub><strong>11.3K</strong> 订阅 · 2026-11-19 核验</sub>
 - **[Java 编程语言](https://chanscout.com/telegram/01M5PN4AF8PHFX3EV89C1N2ZSW-javaer/)** — 中文 Java 交流群，入群需要审核，群名里专门写了「不是 JAV 群」。适合问框架、JVM 和工程问题。  
-  <sub><strong>8.7K</strong> 订阅 · 2026-11-13 核验</sub>
+  <sub><strong>8.6K</strong> 订阅 · 2026-11-20 核验</sub>
 - **[大虾的编程资源库/码农/程序员资源](https://chanscout.com/telegram/01M2PX4XSYKWR73XQP3676J64K-programmingsrchub/)** — 一个程序员的个人资源库，持续发编程相关的资料和工具。偶尔帮群友找书，每天限前三个。  
-  <sub><strong>7.8K</strong> 订阅 · 2026-11-12 核验</sub>
+  <sub><strong>7.8K</strong> 订阅 · 2026-11-19 核验</sub>
 - **[C++ 中文交流群](https://chanscout.com/telegram/01M5PN2EM4HKZ5RDHN5Q5QMCAP-cpluspluszh/)** — 与 Python 群同一套管理规则的中文 C++ 讨论群，氛围偏严谨。适合讨论语言细节和工程实践。  
-  <sub><strong>7.5K</strong> 订阅 · 2026-11-13 核验</sub>
+  <sub><strong>7.5K</strong> 订阅 · 2026-11-20 核验</sub>
 - **[Python + AI 分享频道](https://chanscout.com/telegram/01M1WFJN0D6JBEG5K0YF0Y5Y4C-pythontrendingweekly/)** — 豌豆花下猫主理的 Python 周刊，从 250 多个信息源里挑文章、教程、开源项目和播客。每周一期，适合通勤时补课。  
-  <sub><strong>4.6K</strong> 订阅 · 2026-11-12 核验</sub>
+  <sub><strong>4.6K</strong> 订阅 · 2026-11-19 核验</sub>
 
 ## 人工智能
 
 - **[AI绘画｜AI视频 | AI音乐](https://chanscout.com/telegram/01M1VWFCK0S4PZJTGAW4TTJHAN-ai_pintura/)** — 分享 AI 绘画、AI 视频与 AI 音乐相关的资源与技巧，也覆盖图像处理、视频处理方向的工具。适合想找现成素材和做法参考的人。  
-  <sub><strong>32.2K</strong> 订阅 · 2026-11-12 核验</sub>
+  <sub><strong>32.2K</strong> 订阅 · 2026-11-19 核验</sub>
 - **[Hermes爱马仕&🦞OpenClaw小龙虾](https://chanscout.com/telegram/01M2PX5A5AMDA6F5VR7F2WMAXX-openclaw1024/)** — 围绕 Hermes 与 OpenClaw 两个自主智能体框架的玩法、技巧与实践记录。圈子小，但更新勤，适合已经在折腾 Agent 的人。  
-  <sub><strong>7.1K</strong> 订阅 · 2026-11-12 核验</sub>
+  <sub><strong>7.1K</strong> 订阅 · 2026-11-19 核验</sub>
 
 ## Telegram 生态
 
 - **[Channel Help](https://chanscout.com/telegram/01M34Q30YK11JS139KBP4HWW5Q-chelpbot/)** — 频道运营工具，支持带按钮的帖子、付费表情、定时发布和入群筛选。频道做大之后基本绕不开。  
-  <sub>月活 <strong>2.5M</strong> · 2026-11-12 核验</sub>
+  <sub>月活 <strong>2.4M</strong> · 2026-11-19 核验</sub>
 - **[Post Bot](https://chanscout.com/telegram/01M34Q30YT1R3AEZY841P5HKCS-postbot/)** — 帖子排版工具，模板、内联按钮、付费表情一次配好，可一键发到任意会话。适合不想手动排版的人。  
-  <sub>月活 <strong>2M</strong> · 2026-11-12 核验</sub>
+  <sub>月活 <strong>1.5M</strong> · 2026-11-19 核验</sub>
 - **[Combot](https://chanscout.com/telegram/01M34S6SH8Q4K5118V81CA209P-combot/)** — 老牌群组管理机器人，除审核外还提供成员活跃度统计。适合需要看数据、而不只是封人的群。  
-  <sub>月活 <strong>834.6K</strong> · 2026-11-12 核验</sub>
+  <sub>月活 <strong>759.5K</strong> · 2026-11-19 核验</sub>
 - **[Stickers Bot](https://chanscout.com/telegram/01M34S6SFY3HGT74BM1RKRVK4Q-stickers/)** — Telegram 官方贴纸机器人，做贴纸包、看使用统计都靠它。做频道视觉时常用。  
-  <sub>月活 <strong>663.5K</strong> · 2026-11-12 核验</sub>
+  <sub>月活 <strong>665.6K</strong> · 2026-11-19 核验</sub>
 - **[Group Help](https://chanscout.com/telegram/01M34S6SPA353AGFST5W3BHNNE-ghclone3bot/)** — 群组管理机器人，官方定位是「把群管好、管安全」，反垃圾与成员管理是主要用途。  
-  <sub>月活 <strong>540.8K</strong> · 2026-11-12 核验</sub>
+  <sub>月活 <strong>534.1K</strong> · 2026-11-19 核验</sub>
 - **[中文索引](https://chanscout.com/telegram/01M34S6ST8RVJKKGKMKW0PM5GF-teletop123bot/)** — 中文群组、频道和机器人的索引机器人，也可以加进自己的群做站内搜索。  
-  <sub>月活 <strong>312.9K</strong> · 2026-11-12 核验</sub>
+  <sub>月活 <strong>352.7K</strong> · 2026-11-19 核验</sub>
 - **[Searchee Bot](https://chanscout.com/telegram/01M34S6SXDCJ71M9VVGVHN9YZE-searcheebot/)** — TGStat 出的频道搜索机器人，按关键词找频道和群组。做竞品调研时比手动翻目录快。  
-  <sub>月活 <strong>243.4K</strong> · 2026-11-12 核验</sub>
+  <sub>月活 <strong>239.9K</strong> · 2026-11-19 核验</sub>
 
 ## 软件工具
 
 - **[TestFlightX](https://chanscout.com/telegram/01M5PKPYK5CN82D554RMNFGDQ7-testflightx/)** — 分享当前可用的 TestFlight 测试链接。iOS 应用尝鲜和 beta 测试用得上。  
-  <sub><strong>43.4K</strong> 订阅 · 2026-11-13 核验</sub>
+  <sub><strong>43.3K</strong> 订阅 · 2026-11-20 核验</sub>
 - **[Appinn Feed｜小众软件](https://chanscout.com/telegram/01M1VWEAKN4FTH65EG5BY0VCWQ-appinnfeed/)** — 小众软件站的内容同步频道，加上发现频道的投稿。找冷门但好用的工具，这里命中率比综合资源号高。  
-  <sub><strong>35K</strong> 订阅 · 2026-11-12 核验</sub>
+  <sub><strong>35.1K</strong> 订阅 · 2026-11-19 核验</sub>
 - **[APP喵 - 精选软件资源](https://chanscout.com/telegram/01M5PKM9KW906VF3RVDXCCNZH3-miaoaaaaa/)** — 按 AI、软件、网站、开源、效率分类的每日精选，配一个网站存档。适合收藏型用户。  
-  <sub><strong>19.6K</strong> 订阅 · 2026-11-13 核验</sub>
+  <sub><strong>19.8K</strong> 订阅 · 2026-11-20 核验</sub>
 - **[捷径指令大全分享频道](https://chanscout.com/telegram/01M5PKPV76CYB3ZE6M59V20FXM-qingtianwe/)** — iOS 快捷指令的教程与成品分享，顺带发一些 ipa 资源。iPhone 用户想搭自动化，可以从这里抄作业。  
-  <sub><strong>14.5K</strong> 订阅 · 2026-11-13 核验</sub>
+  <sub><strong>14.5K</strong> 订阅 · 2026-11-20 核验</sub>
 - **[Google Voice 交流群](https://chanscout.com/telegram/01M5PN6G9ZT4V0QKX1B9ARX871-googlevoice/)** — Google Voice 号码的使用技巧、保号方法与服务资讯。话题很窄，但在这个话题上比泛技术群专业。  
-  <sub><strong>13.1K</strong> 订阅 · 2026-11-13 核验</sub>
+  <sub><strong>13K</strong> 订阅 · 2026-11-20 核验</sub>
 - **[网络技术文章分享](https://chanscout.com/telegram/01M5PKR89JCRF2VN20FZRESK9C-wzxylh/)** — 网络技术教程与文档分享，覆盖软件配置、协议和排障。工具书性质，适合遇到问题时检索。  
-  <sub><strong>10.7K</strong> 订阅 · 2026-11-13 核验</sub>
+  <sub><strong>10.8K</strong> 订阅 · 2026-11-20 核验</sub>
 - **[ALL About RSS](https://chanscout.com/telegram/01M5PKRD90W1R0QFAY8C407V1A-aboutrss/)** — 只讲 RSS：应用、教程、技巧和观点。想把信息源从算法流搬回订阅制的人，从这里入门最省事。  
-  <sub><strong>9.5K</strong> 订阅 · 2026-11-13 核验</sub>
+  <sub><strong>9.4K</strong> 订阅 · 2026-11-20 核验</sub>
 
 ## 资源分享
 
 - **[Manybot](https://chanscout.com/telegram/01M34Q314BC386640TW10W3M7X-manybot/)** — 不写代码就能搭一个简单对话机器人，支持自定义命令和菜单。适合做入门级自动化。  
-  <sub>月活 <strong>960.2K</strong> · 2026-11-12 核验</sub>
+  <sub>月活 <strong>954.6K</strong> · 2026-11-19 核验</sub>
 - **[阿里云盘发布频道](https://chanscout.com/telegram/01M1V82JMT04G8A86014NNJC7D-sharealiyun/)** — 阿里云盘的资源分享频道，用户互相发自己的网盘内容。资源质量参差，胜在更新快。  
-  <sub><strong>198.4K</strong> 订阅 · 2026-11-12 核验</sub>
+  <sub><strong>198K</strong> 订阅 · 2026-11-19 核验</sub>
 - **[黑洞资源笔记](https://chanscout.com/telegram/01M1KTNV89GJ00QNKDNZ0KKPTV-piracy6/)** — 以资源整理和工具笔记为主，配一个同名讨论群。收藏型频道，翻历史记录比看即时推送更有用。  
-  <sub><strong>78K</strong> 订阅 · 2026-11-12 核验</sub>
+  <sub><strong>78.2K</strong> 订阅 · 2026-11-19 核验</sub>
 - **[极客分享](https://chanscout.com/telegram/01M1KV7H2FJ7VDN5B62CH1A50N-geekshare/)** — 网站、工具、APP 与开源项目的分享频道，偶尔也发点别的。更新量大，适合当发现新工具的第一站。  
-  <sub><strong>65.6K</strong> 订阅 · 2026-11-12 核验</sub>
+  <sub><strong>65.8K</strong> 订阅 · 2026-11-19 核验</sub>
 - **[飞鱼资源分享|冲浪指南|软件工具](https://chanscout.com/telegram/01M1VDEEM1DHV2ZR18KHA6GQFF-feiyu123/)** — 工具、软件、浏览器插件、开源项目与互联网资讯的杂食型分享频道。更新频繁，需要自己筛。  
-  <sub><strong>64.3K</strong> 订阅 · 2026-11-12 核验</sub>
+  <sub><strong>64.8K</strong> 订阅 · 2026-11-19 核验</sub>
 - **[折腾啥](https://chanscout.com/telegram/01M1KSFAN1EC2BRDH7A0ZX7S9Y-zhetengsha/)** — 写给 Power User 的频道：开源工具、脚本和自动化工作流，偏实操。喜欢把东西串起来的人会喜欢。  
-  <sub><strong>54.1K</strong> 订阅 · 2026-11-12 核验</sub>
+  <sub><strong>54.8K</strong> 订阅 · 2026-11-19 核验</sub>
 
 ## 阅读学习
 
 - **[Quiz Bot](https://chanscout.com/telegram/01M34Q3121ADGJMGB8KJFKEC09-quizbot/)** — 官方出品的答题机器人，可以自建多选题、和好友对战。做社群活动时很好用。  
-  <sub>月活 <strong>1.6M</strong> · 2026-11-12 核验</sub>
+  <sub>月活 <strong>1.6M</strong> · 2026-11-19 核验</sub>
 - **[nmBot](https://chanscout.com/telegram/01M34Q317P2XS6T81PJJ4G436Q-nmnmfunbot/)** — 带互动玩法的群组机器人，支持中文，发 /lang 可以切语言。适合活跃气氛，不适合严格管理。  
-  <sub>月活 <strong>867.1K</strong> · 2026-11-12 核验</sub>
+  <sub>月活 <strong>864K</strong> · 2026-11-19 核验</sub>
 - **[电子书/听书/期刊/课程资源](https://chanscout.com/telegram/01M1V8N28XDHP21VXZK89H613K-sharebooks4you/)** — 电子书、有声书、期刊与课程资源的汇总频道，按主题分目录。找书比找课好用。  
-  <sub><strong>134.7K</strong> 订阅 · 2026-11-12 核验</sub>
+  <sub><strong>135K</strong> 订阅 · 2026-11-19 核验</sub>
 - **[Legado｜开源阅读｜频道](https://chanscout.com/telegram/01M1VCBQTQQHJQ5KCZ4DQD435N-legado_channels/)** — 开源阅读 App「阅读」（Legado）的频道，发布阅读器 APK、书源、主题字体与版本通知。书源由社区维护，导入即可用。2020 年建立，是这个生态里更新最稳的入口之一。  
-  <sub><strong>93.1K</strong> 订阅 · 2026-11-12 核验</sub>
+  <sub><strong>93.1K</strong> 订阅 · 2026-11-19 核验</sub>
 - **[Λ-Reading ♡](https://chanscout.com/telegram/01M1MYA8ZWZBWJ776GX1HRWJWT-goreading/)** — 书摘、书籍推荐和科技人文资讯，配一份邮件通讯。更新不快，但选书品味稳定。  
-  <sub><strong>15K</strong> 订阅 · 2026-11-12 核验</sub>
+  <sub><strong>14.9K</strong> 订阅 · 2026-11-19 核验</sub>
 - **[大虾好书屋/电子书下载/学术/书单/主题阅读/读书/book](https://chanscout.com/telegram/01M2PWES5PGB1AKCF7Q893AJRR-daxiabook/)** — 以哲学、历史、法律、经济这类严肃读物为主的书单频道，带阅读指引。适合想系统读点东西的人。  
-  <sub><strong>12.9K</strong> 订阅 · 2026-11-12 核验</sub>
+  <sub><strong>13K</strong> 订阅 · 2026-11-19 核验</sub>
 - **[Notion 中文社区](https://chanscout.com/telegram/01M5PNDC9MH5MSFYTHCHTCYQGK-notionso/)** — 中文 Notion 用户的主要聚集地，讨论模板、数据库设计与效率工作流。提问前先搜历史消息，能省一半时间。  
-  <sub><strong>12.2K</strong> 订阅 · 2026-11-13 核验</sub>
+  <sub><strong>12.2K</strong> 订阅 · 2026-11-20 核验</sub>
 - **[Japanese learning 日本語 | JLPT N5 ~N1](https://chanscout.com/telegram/01M5PM285G5JE3CWE2D30P3080-japaneselearningjlpt/)** — JLPT N5 到 N1 的课程视频和 PDF，附带测验。备考日语的人可以当资料库。  
-  <sub><strong>10.9K</strong> 订阅 · 2026-11-13 核验</sub>
+  <sub><strong>11K</strong> 订阅 · 2026-11-20 核验</sub>
 - **[杂志｜考研｜考公｜互助群](https://chanscout.com/telegram/01M5PNDQERR71BNBA68WGCN2MG-waikan2023/)** — 期刊、考研与考公资料的互助群，以资料交换和信息互通为主。平时安静，找冷门资料时有用。  
-  <sub><strong>7.8K</strong> 订阅 · 2026-11-13 核验</sub>
+  <sub><strong>7.8K</strong> 订阅 · 2026-11-20 核验</sub>
 
 ## 新闻时事
 
 - **[风向旗参考快讯](https://chanscout.com/telegram/01M1K1WMWE2YPQ548QV507FH3D-xhqcankao/)** — 以科技与互联网快讯为主，也会发 VPS、网盘这类虚拟资产的动态。信息密度高，适合当信息流补充，不适合当深度阅读。  
-  <sub><strong>174.9K</strong> 订阅 · 2026-11-12 核验</sub>
+  <sub><strong>174.6K</strong> 订阅 · 2026-11-19 核验</sub>
 
 ## 生活娱乐
 
 - **[肥羊影音数码综合交流群](https://chanscout.com/telegram/01M1XQG2JHX6RFPGHGWFNPJ3HH-feiyangdigital/)** — 影音与数码设备的综合交流群，群规禁止政治与 NSFW 内容。人多话题杂，适合问设备和资源。  
-  <sub><strong>101.3K</strong> 订阅 · 2026-11-12 核验</sub>
+  <sub><strong>101.3K</strong> 订阅 · 2026-11-19 核验</sub>
 
 ## 社交社区
 
 - **[每日沙雕墙](https://chanscout.com/telegram/01M5PMSXMGP12BGBTYRF2NFRB2-woshadiao/)** — 沙雕图与段子的投稿频道，内容按 CC BY-NC-SA 发布。纯娱乐，别指望信息量。  
-  <sub><strong>114.5K</strong> 订阅 · 2026-11-13 核验</sub>
+  <sub><strong>114.4K</strong> 订阅 · 2026-11-20 核验</sub>
 - **[逼逼和他的精神股东们](https://chanscout.com/telegram/01M5PNVMNJJDW2BMG14NWAF7GN-imbbbbbbbbbbb/)** — 「小声逼逼」的聊天群，群规明确禁止讨论盗版破解，还会抽正版软件。适合闲聊，不适合问技术。  
-  <sub><strong>24.1K</strong> 订阅 · 2026-11-13 核验</sub>
+  <sub><strong>24.3K</strong> 订阅 · 2026-11-20 核验</sub>
 
 ## 游戏
 
 - **[PlayDeck](https://chanscout.com/telegram/01M34Q3173QSFB5A078PAD7KJG-playdeckbot/)** — 在 Telegram 里直接玩 250 多个小游戏，不用装任何东西。摸鱼专用。  
-  <sub>月活 <strong>950.2K</strong> · 2026-11-12 核验</sub>
+  <sub>月活 <strong>26.4K</strong> · 2026-11-19 核验</sub>
 
 ## 纠错与贡献
 
